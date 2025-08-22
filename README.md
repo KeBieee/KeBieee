@@ -10,7 +10,7 @@
 - 🏗 Currently working on:
   - **Java TCP Server with Web Panel**
   - **Minecraft Forge Mod (1.8.9)**
-- 🎮 Gamer: Valorant | Minecraft | Open Source Enthusiast
+- 🎮 Gamer: Valorant | Minecraft | League Of Legends | Open Source Enthusiast
 - 📚 Learning: **Low-level OS Development** & **Advanced Networking**
 
 ---
