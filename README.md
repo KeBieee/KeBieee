@@ -32,15 +32,13 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kebieee&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kebieee&layout=compact&theme=dark)
 
 ---
 
 ### 🔗 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/deinserver)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/deinserver](https://discord.gg/yN6AGUhrVY))  
 ---
 
 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
