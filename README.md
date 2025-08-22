@@ -1,5 +1,46 @@
-<h1 align="center">Hi 👋, I'm Kebiee</h1>
-<h3 align="center">A Little Developer from Germany</h3>
+# 👋 Hi, I'm Kebiee
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+💻 **Java Developer** | 🛠 Minecraft Modding | ⚡ Network & Bots  
+🎯 Passion for building **clean & scalable systems**
+
+---
+
+### 🔥 About Me
+- 🌍 From: Germany
+- 🏗 Currently working on:
+  - **Java TCP Server with Web Panel**
+  - **Minecraft Forge Mod (1.8.9)**
+- 🎮 Gamer: Valorant | Minecraft | Open Source Enthusiast
+- 📚 Learning: **Low-level OS Development** & **Advanced Networking**
+
+---
+
+### 🛠 Tech Stack
+**Languages:**  
+`Java` `PHP` `HTML` `CSS` `JavaScript`
+
+**Tools & Frameworks:**  
+`JDA` `Forge` `IntelliJ IDEA` `Gradle` `SVN` `Linux`
+
+---
+
+### 📌 Current Projects
+- ✅ **Java TCP Chat Server** with Web Panel and Role Management  
+- ✅ **Custom OS Project** (Java-based Kernel Concept)  
+- ✅ **Minecraft Mod** (Performance + QoL Features)
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=dark)
+
+---
+
+### 🔗 Connect with me
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/deinserver)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
+
+---
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*
