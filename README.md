@@ -20,7 +20,7 @@
 `Java` `PHP` `HTML` `CSS` `JavaScript`
 
 **Tools & Frameworks:**  
-`JDA` `Forge` `IntelliJ IDEA` `Gradle` `SVN` `Linux`
+`JDA` `Forge` `IntelliJ IDEA` `Maven` `SVN` `Linux`
 
 ---
 
